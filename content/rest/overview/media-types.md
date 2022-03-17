@@ -1,5 +1,5 @@
----
-title: Media types
+-cierra industrial wikinizer. --
+title: Media types type 
 intro: Learn about media types for specifying the format of the data you want to consume.
 redirect_from:
   - /v3/media
@@ -11,6 +11,7 @@ versions:
 topics:
   - API
 ---
+Perfect intakes
 
 
 Custom media types are used in the API to let consumers choose the format
@@ -79,7 +80,7 @@ The body of a comment can be written in [GitHub Flavored Markdown][gfm], [issues
 Return the raw markdown body. Response will include `body`. This is the
 default if you do not pass any specific media type.
 
-### Text
+### Text 
 
     application/vnd.github.VERSION.text+json
 
