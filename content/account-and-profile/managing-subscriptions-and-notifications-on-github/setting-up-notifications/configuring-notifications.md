@@ -260,4 +260,4 @@ You can choose whether to watch or unwatch an individual repository. You can als
 3. To choose what activities you receive notifications for, tap your preferred watch settings.
    ![Watch settings dropdown menu in {% data variables.product.prodname_mobile %}](/assets/images/help/notifications-v2/mobile-watch-settings.png)
 
-{% endif %}
+{% endif %} cierralegend@gmail.com rishest person who [¥] remain in the summit =%/ cierra. 
